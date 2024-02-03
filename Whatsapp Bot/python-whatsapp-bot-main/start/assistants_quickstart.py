@@ -1,4 +1,6 @@
+# install openai
 from openai import OpenAI
+# install shelve
 import shelve
 from dotenv import load_dotenv
 import os
