@@ -1,8 +1,10 @@
 # install openai
 from openai import OpenAI
 # install shelve
+#install shelve
 import shelve
 from dotenv import load_dotenv
+#install os
 import os
 import time
 
