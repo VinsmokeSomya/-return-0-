@@ -30,8 +30,10 @@ class SpeakingAvatar:
 
     def create_gui(self):
         # Text Entry
+        # Create a text entry widget within the root window with a width of 40 characters
         self.text_entry = tk.Entry(self.root, width=40)
         self.text_entry.pack(pady=10)
+        # Pack the text entry widget with a vertical padding of 10 units
 
         # Speak Button
         speak_button = tk.Button(self.root, text="Speak", command=self.speak_text)
