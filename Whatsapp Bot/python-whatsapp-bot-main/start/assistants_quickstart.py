@@ -59,7 +59,7 @@ def store_thread(wa_id, thread_id):
 
 
 # --------------------------------------------------------------
-# Generate response
+# Generate responses
 # --------------------------------------------------------------
 def generate_response(message_body, wa_id, name):
     # Check if there is already a thread_id for the wa_id
@@ -77,7 +77,7 @@ def generate_response(message_body, wa_id, name):
         print(f"Retrieving existing thread for {name} with wa_id {wa_id}")
         thread = client.beta.threads.retrieve(thread_id)
 
-    # Add message to thread
+    # Adding message to thread
     message = client.beta.threads.messages.create(
         thread_id=thread_id,
         role="user",
