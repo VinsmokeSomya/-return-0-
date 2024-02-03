@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 
 
 
-# Define a class named Speaking_Avatar
+# Define a class named SpeakingAvatar
 class SpeakingAvatar:
     # Define the __init__ method which initializes instances of the class
     def __init__(self, root):
