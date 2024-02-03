@@ -41,7 +41,7 @@ def create_assistant(file):
     )
     return assistant
 
-
+#assistant
 assistant = create_assistant(file)
 
 
