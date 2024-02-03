@@ -1,3 +1,3 @@
 # For deploving this model we need to create a seperate repository so we created it and deployed it...
 
-Repo link: https://github.com/VinsmokeSomya/Espada-Eye-litehttps://github.com/VinsmokeSomya/Espada-Eye-lite
+Repo link: https://github.com/VinsmokeSomya/Espada-Eye-lite
