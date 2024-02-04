@@ -1,6 +1,6 @@
 # Speaking Avatar
 
-![Speaking Avatar](avatar_screenshot.png)
+![man](https://github.com/VinsmokeSomya/return-0/assets/117063787/23ba09b2-6627-4292-85e2-689922599e2e)
 
 ## Description
 This Speaking Avatar application allows you to enter text, and the avatar will speak out the entered text using a text-to-speech engine. Additionally, you can load different images for the avatar to display.
