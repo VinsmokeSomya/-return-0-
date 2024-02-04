@@ -6,10 +6,10 @@
    
 **bash:**
 
-_pip install -r requirements.txt_  
+`pip install -r requirements.txt`
 #First Run This Cmd to Install Required Dependencies
 
-_python ChitraKaar.py_   
+`python ChitraKaar.py`
 #To Run Script
 
 **Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860) (Localhost)**
