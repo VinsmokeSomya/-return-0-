@@ -2,9 +2,10 @@
 
 Install dependencies:
 
-``bash
+```bash
 pip install -r requirements.txt
 exit [n]
+
 Run the application:
 
 ```bash
