@@ -1,27 +1,21 @@
 # Espada Eye lite
 
-Install dependencies:
+**Install dependencies:**
 
-```bash
 pip install -r requirements.txt
-`exit`
 
-Run the application:
+**Run the application:**
 
-```bash
-Copy code
-python your_app_script.py
-Replace your_app_script.py with the name of the script containing your code.
+python Espada Eye lite.py
 
-Usage
+**Usage**
 After running the application, open your web browser and go to the provided link (usually http://localhost:7860).
 
-Upload an image using the interface.
-
+_Upload an image using the interface._
 Espada will generate a descriptive caption for the uploaded image.
 
-Requirements
-Python 3.x
+**Requirements:**
+Python
 Gradio
 Transformers
 Torch
