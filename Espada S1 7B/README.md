@@ -4,16 +4,16 @@ Clone the repository:
 
 **bash:**
 
-git clone (https://github.com/VinsmokeSomya/return-0)
+_git clone (https://github.com/VinsmokeSomya/return-0)_
 
-cd Espada S1 7B
+_cd Espada S1 7B_
 
 **Run the Python script:**
 
-python Espada S1 7B.ipynb
-Enter the initial prompt when prompted.
+_python Espada S1 7B.ipynb_
+#Enter the initial prompt when prompted.
 
-The generated text and its translation will be displayed.
+#The generated text and its translation will be displayed.
 
 **Configuration:**
 
