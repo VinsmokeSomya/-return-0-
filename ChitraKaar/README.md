@@ -23,11 +23,7 @@ Click "Submit" to generate an image based on the input prompt.
 **Required Dependencies:**
 
 gradio==2.1.0
-
 torch==1.10.0
-
 diffusers==0.1.0
-
 transformers==4.12.2
-
 accelerate==0.6.0
