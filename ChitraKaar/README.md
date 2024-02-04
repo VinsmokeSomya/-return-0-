@@ -5,6 +5,7 @@
 3. Run the script to launch the Gradio interface.
    
 **bash**
+
 _python script.py_
 
 **Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860).**
