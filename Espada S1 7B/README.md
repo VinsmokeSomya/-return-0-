@@ -1,22 +1,27 @@
 # Espada S1 7B
 **Usage:**
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/espada-text-generation.git
-cd espada-text-generation
-Run the Python script:
-bash
-Copy code
-python generate_text.py
+
+**bash:**
+
+git clone (https://github.com/VinsmokeSomya/return-0)
+
+cd Espada S1 7B
+
+**Run the Python script:**
+
+python Espada S1 7B.ipynb
 Enter the initial prompt when prompted.
 
 The generated text and its translation will be displayed.
 
-Configuration
-The model used is "DumbKid-AI007/Espada-S1-7B."
-The max_length and num_return_sequences parameters can be adjusted in the script.
-Dependencies
-transformers by Hugging Face
-accelerate by Hugging Face
-googletrans by ssut
+**Configuration:**
+
+This is our  model stored in Huggingface : DumbKid-AI007/Espada-S1-7B
+
+**Dependencies:**
+
+transformers==4.11.2
+accelerate==0.4.0
+googletrans==4.0.0-rc1
+torch
