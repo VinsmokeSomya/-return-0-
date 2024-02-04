@@ -2,11 +2,11 @@
 
 **Install dependencies:**
 
-pip install -r requirements.txt
+_pip install -r requirements.txt_
 
 **Run the application:**
 
-python Espada Eye lite.py
+_python Espada Eye lite.py_
 
 **Usage**
 After running the application, open your web browser and go to the provided link (usually http://localhost:7860).
