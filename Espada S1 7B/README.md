@@ -1,13 +1,19 @@
 # Espada S1 7B
 **Usage:**
 
-`git clone (https://github.com/VinsmokeSomya/return-0)` #To Clone this repository
+```bash
+git clone (https://github.com/VinsmokeSomya/return-0) #To Clone this repository
+```
 
-`cd Espada S1 7B`  #to change directary
+```bash
+cd Espada S1 7B`  #to change directary
+```
 
 **Run the Python script:**
 
-`python Espada S1 7B.ipynb`
+```bash
+python Espada S1 7B.ipynb
+```
 #Enter the initial prompt when prompted.
 
 #The generated text and its translation will be displayed.
