@@ -12,7 +12,7 @@ _pip install -r requirements.txt_
 _python ChitraKaar.py_   
 #To Run Script
 
-**Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860).**
+**Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860) (Localhost)**
 
 **In Gradio:**
 
