@@ -1,9 +1,11 @@
 # Espada S1 7B
 **Usage:**
-
+```bash
 _git clone (https://github.com/VinsmokeSomya/return-0)_ #To Clone this repository
 
 _cd Espada S1 7B_  #to change directary
+
+bash```
 
 **Run the Python script:**
 
