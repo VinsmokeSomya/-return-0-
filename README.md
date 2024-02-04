@@ -17,7 +17,7 @@ Link: https://github.com/VinsmokeSomya/return-0/tree/77dad972a070f0a4ab86963ecd5
 
 Link: https://github.com/VinsmokeSomya/return-0/tree/563a36f9977579b69a7d330a8d955c46caf0aa21/Espada%20S1%207B
 
-## Image Descriptions
+## Espada Eye lite
 `image-to-text`
 
 Link: https://github.com/VinsmokeSomya/return-0/tree/563a36f9977579b69a7d330a8d955c46caf0aa21/Image%20Descriptions
