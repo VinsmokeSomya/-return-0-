@@ -1,9 +1,6 @@
 # Espada S1 7B
 **Usage:**
 Clone the repository:
-
-**bash:**
-
 _git clone (https://github.com/VinsmokeSomya/return-0)_
 
 _cd Espada S1 7B_
