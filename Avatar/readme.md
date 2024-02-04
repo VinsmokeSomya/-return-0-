@@ -38,9 +38,6 @@ This Speaking Avatar application allows you to enter text, and the avatar will s
    python avatar.py
    ```
 
-## Screenshots
-![Speaking Avatar](avatar_screenshot.png)
-
 ## Notes
 - Make sure your system has speakers or headphones connected to hear the spoken text.
 
