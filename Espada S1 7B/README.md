@@ -20,7 +20,7 @@ python Espada S1 7B.ipynb
 
 **Configuration:**
 
-This is our  model stored in Huggingface : DumbKid-AI007/Espada-S1-7B
+`This is our  model stored in **Huggingface : DumbKid-AI007/Espada-S1-7B**`
 
 **Dependencies:**
 
