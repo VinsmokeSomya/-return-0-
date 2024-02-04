@@ -1,11 +1,12 @@
 # ChitraKaar
-Usage
-Open the provided Python script (script.py) in your preferred code editor.
-Replace the placeholder values in the script as needed (e.g., model name, GPU device, etc.).
-Run the script to launch the Gradio interface.
+**Usage**
+1. Open the provided Python script ChitraKaar.py in your preferred code editor.
+2. Replace the placeholder values in the script as needed (e.g., model name, GPU device, etc.).
+3. Run the script to launch the Gradio interface.
+   
 bash
-Copy code
-python script.py
+Copy python script.py code
+
 Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860).
 Interface Instructions
 Input: Enter a text prompt in the input box.
