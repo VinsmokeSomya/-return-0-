@@ -5,9 +5,12 @@
 3. Run the script to launch the Gradio interface.
    
 **bash**
-_pip install -r requirements.txt_  #First Run This Cmd to Install Required Dependencies
 
-_python ChitraKaar.py_   #To Run Script
+_pip install -r requirements.txt_  
+#First Run This Cmd to Install Required Dependencies
+
+_python ChitraKaar.py_   
+#To Run Script
 
 **Access the Gradio interface by navigating to the provided link (e.g., http://127.0.0.1:7860).**
 
