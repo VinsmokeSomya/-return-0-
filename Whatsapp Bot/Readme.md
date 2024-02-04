@@ -1,8 +1,8 @@
-**WhatsApp Chat Bot with Meta Integration**
-**Project Overview**
+#WhatsApp Chat Bot with Meta Integration
+#Project Overview
 This repository contains the source code for a WhatsApp Chat Bot that leverages the Meta platform for interactive user interactions. The chat bot is designed to provide a seamless and engaging experience for users on the popular messaging platform, WhatsApp.
 
-**Features**
+#Features
 Meta Integration: Utilizes the Meta platform to enhance user interactions and deliver personalized experiences.
 Interactive Conversations: Engages users in dynamic and context-aware conversations.
 Multi-functional Bot: Supports a variety of commands and queries to perform different tasks.
@@ -13,7 +13,7 @@ Node.js installed on your machine
 flask must be installed on your machine
 A valid Meta API key (obtained from the Meta Developer Portal)
 WhatsApp Business API account
-Installation
+**Installation**
 Clone the repository to your local machine:
 
 bash
